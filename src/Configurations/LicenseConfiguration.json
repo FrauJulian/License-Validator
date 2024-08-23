@@ -1,0 +1,12 @@
+{
+    "SoftwareName1": [
+        "license1",
+        "license2"
+    ],
+
+    "SoftwareName2": [
+        "license1",
+        "license2",
+        "license3"
+    ]
+}
