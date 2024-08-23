@@ -67,7 +67,7 @@ nodemon
 
 <br>
 
-## 📋 Credits > [`FrauJulian`](https://github.com/FrauJulian).
+## 📋 Credits > [`FrauJulian`](https://github.com/FrauJulian)
 
 <br>
 
