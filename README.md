@@ -18,7 +18,7 @@
 
 Before you can use this application you have to build it!
 
-### - Build
+###  Build
 
 ```bash
 npm run build
@@ -27,6 +27,9 @@ npm run build
 ```bash
 tsc
 ```
+
+</br>
+
 
 ### - Run
 
@@ -37,6 +40,8 @@ npm run start
 ```bash
 node ./dist/index.js
 ```
+
+</br>
 
 ### - Dev Tools
 
