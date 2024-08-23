@@ -14,9 +14,11 @@
 
 <br>
 
-## Build & Start:
+## Scripts:
 
 Before you can use this application you have to build it!
+
+</br>
 
 ###  Build
 
